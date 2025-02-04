@@ -1,34 +1,88 @@
-<h1 align="left">Hey 👋 What's up? Welcome to my Profile</h1>
+<h1 align="left">Hey 👋 What's up? Welcome to QuantumEdge Software INC</h1>
+
+<h3 align="left">🙎This is a Software Company from 🏘️USA</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=quantumedgesoft&label=Profile%20views&color=blueviolet&abbreviated=true&style=flat" alt="quantumedgesoft" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quantumedgesoft&theme=algolia" alt="quantumedgesoft" /></a</p>
+<h3 align="left">About Quantumedge Software Inc.</h3>
 
 ###
 
-<h3 align="left">🙎my name is Shadadot Hossain (Sakib) <br>👨🏿‍💻I'm a Full Stack Web Developer<br>🏘️from Bangladesh</h3>
+<p align="left">Founded in *2024, **Quantumedge Software Inc.* is dedicated to providing *affordable, skilled remote talent* for businesses of all sizes. Our expertise spans *software development, **web applications, **UI/UX design, **graphic design, and **ongoing project support*.  
+Our mission is to help businesses thrive by connecting them with top-tier professionals at a fraction of the cost of traditional hiring.</p>
 
 ###
-<h3 align="center">As a Professional Full-Stack developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibbdcse&label=Profile%20views&color=blueviolet&abbreviated=true&style=flat" alt="sakibbdcse" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakibbdcse&theme=algolia" alt="sakibbdcse" /></a</p>
-<h3 align="left">CAREER OBJECTIVE 👨‍💻</h3>
+<h2 align="left">Our mission 👇</h2>
 
 ###
+<p align="left">✨ Our mission is to help businesses thrive by connecting them with top-tier professionals at a fraction of the cost of traditional hiring.</p>
 
-<p align="left">I am searching for the role of Full Stack Developer at an innovative company where I can utilize my previous experience in designing, coding, testing, debugging, and deploying software and web applications. I have 2-3 years of professional experience in software and web applications-related field.</p>
-
-###
-<h2 align="left">About me 👇</h2>
 
 ###
-<p align="left">✨ Professional Experience 3years+<br>🎓Education:- B.sc In Computer Science <br>📚 I'm currently learning New technology <br>🎯Feature Goals: Google Amazon Microsoft Meta<br>🎲 Fun fact: Sports, Traveling, Signing</p>
+<h2 align="left">Why Choose Quantumedge? 👇</h2>
+
+###
+<p align="left">
+🚀 *Expert Talent*: Skilled professionals in cutting-edge technologies. 
+</p>
+<p align="left">
+💰 *Affordable Pricing*: Save over $92,000 annually compared to in-house hiring! 
+</p>
+<p align="left">
+🌍 *Remote Flexibility*: Access top-tier global talent, anytime, anywhere.
+</p>
+
+
+###
+<h2 align="left">Our Process 👇</h2>
+
+###
+<p align="left">
+*Consultation*: Discuss your project requirements. 
+</p>
+<p align="left">
+*Talent Assignment*: We assign skilled professionals to match your needs. 
+</p>
+<p align="left">
+*Execution*: Work seamlessly with our experts to achieve your project goals. 
+</p>
+
+
+###
+<h2 align="left">Your One-Stop Solution for Affordable Talent 👇</h2>
+
+###
+<p align="left">
+We provide *skilled remote professionals* for:
+</p>
+<p align="left">
+✔ *Software Development*
+</p>
+<p align="left">
+✔ *Web Applications*  
+</p>
+<p align="left">
+✔ *UI/UX Design*
+</p>
+<p align="left">
+✔ *Graphic Design*  
+</p>
+<p align="left">
+✔ *Ongoing Project Support*  
+</p>
+<p align="left">
+All at *unbeatable prices*, with the flexibility to scale as you grow. 
+</p>
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibbdcse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakibbdcse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=quantumedgesoft&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quantumedgesoft&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="left">My Skills</h2>
+<h2 align="left">Our Skills</h2>
 
 ###
 
@@ -124,10 +178,10 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sakibbdcse&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=quantumedgesoft&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<h1 align="left">📞Contact Me👇</h1>
+<h1 align="left">📞Contact Us👇</h1>
 
 ###
 
@@ -145,30 +199,29 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sakib6619/" target="_blank">
+  <a href="https://www.linkedin.com/in/quantumedge-software-inc-profile/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/sk.sakib6619/" target="_blank">
+  <a href="https://www.facebook.com/quantumedgesoft/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="sakibbd.cse@gmail.com" target="_blank">
+  <a href="quantumedgesoft@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/sakibbdcse" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  <a href="https://www.youtube.com/@quantumedgesoft" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://discord.com/channels/sakib.dreamdiver" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://web.whatsapp.com/01766195363" target="_blank">
+<!--   <a href="https://web.whatsapp.com/01766195363" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/shahadot_hossain_sakib/" target="_blank">
+  </a> -->
+<!--   <a href="https://www.instagram.com/shahadot_hossain_sakib/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://web.telegram.org/k/Sakibbdcse" target="_blank">
+  </a> -->
+<!--   <a href="https://web.telegram.org/k/Sakibbdcse" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a> -->
+  <a href="https://x.com/quantumedgesoft" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
